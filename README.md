@@ -45,3 +45,4 @@ Use the [CLOUD.MD](https://github.com/monimiller/dbt-galaxy-covid-demo/blob/main
 ### Shoutouts
 Shout out to [@dataders](https://github.com/dataders) for his awesome help!
 Inspired by the [Cinco de Trino](https://github.com/dbt-labs/trino-dbt-tpch-demo) repo by [@jtcohen6](https://github.com/jtcohen6)!
+# dbt-sep-covid-demo
