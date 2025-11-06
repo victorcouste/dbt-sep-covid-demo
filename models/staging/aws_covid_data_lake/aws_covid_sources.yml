@@ -1,0 +1,20 @@
+version: 2
+
+sources:
+  - name: aws
+    description: Sample covid data
+    loader: sample
+    catalog: hive
+    schema: covid
+    tables:
+      - name: enigma_jhu
+        columns:
+          - name: fips
+          - name: admin2
+          - name: province_state
+          - name: country_region
+          - name: last_update
+          - name: latitude
+          - name: longitude
+          - name: confirmed
+          - name: combined_key
